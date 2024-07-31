@@ -1,0 +1,10 @@
+[user]
+        name = Serhii Marchuk
+        email = marchuk1s1p@gmail.com
+
+[init]
+	    defaultBranch = main
+
+[alias]
+        br = branch
+        ck = checkout
