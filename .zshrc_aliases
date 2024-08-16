@@ -7,7 +7,7 @@ alias dcd="docker compose down"
 alias gccl="gcloud config list"
 alias gcpl="gcloud projects list"
 
-# Terraform commands
-alias tfi = "terraform init"
-alias tfa = "terraform apply"
-alias tfd = "terraform destroy"
+# Terraform commands aliases
+alias tfi="terraform init"
+alias tfa="terraform apply"
+alias tfd="terraform destroy"
