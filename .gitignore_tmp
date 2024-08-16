@@ -1,7 +1,7 @@
 # Ignore everything
 *
 
-#Allowed folders
+# Allowed folders
 
 # Allowed files
 !.gitignore
