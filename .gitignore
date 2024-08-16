@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allowed folders
+!licenses
+
+# Allowed files
+!.gitconfig
+!.gitignore_tmp
+!.zshrc_aliases
