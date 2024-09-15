@@ -3,10 +3,10 @@
         email = marchuk1s1p@gmail.com
 
 [init]
-	    defaultBranch = main
+        defaultBranch = main
 
 [alias]
-        br = branch
-        ck = checkout
-        cp = cherry-pick
-        pom = pull origin main
+        br = 'branch'
+        ck = 'checkout'
+        cp = 'cherry-pick'
+        pom = 'pull origin main'
