@@ -13,5 +13,6 @@ alias gcccl="gcloud config configurations list"
 
 # Terraform commands aliases
 alias tfi="terraform init"
+alias tfp="terraform plan"
 alias tfa="terraform apply"
 alias tfd="terraform destroy"
