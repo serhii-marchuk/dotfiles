@@ -9,7 +9,7 @@ alias gccl="gcloud config list"
 alias gcpl="gcloud projects list"
 alias gcsl="gcloud services list"
 
-alias gcccl="gcloud config configurations list"
+alias gccc="gcloud config configurations"
 
 # Terraform commands aliases
 alias tfi="terraform init"
