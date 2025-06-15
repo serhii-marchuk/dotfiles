@@ -6,7 +6,7 @@
         defaultBranch = main
 
 [alias]
-        br = 'branch'
-        ck = 'checkout'
-        cp = 'cherry-pick'
-        pom = 'pull origin main'
+        br = branch
+        ck = checkout
+        cp = cherry-pick
+        pom = pull origin main
