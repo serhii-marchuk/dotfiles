@@ -1,12 +1,14 @@
 [user]
-        name = Serhii Marchuk
+        name  = Serhii Marchuk
         email = marchuk1s1p@gmail.com
 
 [init]
         defaultBranch = main
 
 [alias]
-        br = branch
-        ck = checkout
-        cp = cherry-pick
-        pom = pull origin main
+        br      = branch
+        brd     = branch -D
+        ck      = checkout
+        ckm     = checkout main
+        cp      = cherry-pick
+        pom     = pull origin main
