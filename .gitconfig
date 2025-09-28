@@ -12,3 +12,4 @@
         ckm     = checkout main
         cp      = cherry-pick
         pom     = pull origin main
+        rs      = reset HEAD~
