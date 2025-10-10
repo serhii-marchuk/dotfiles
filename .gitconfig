@@ -10,6 +10,7 @@
         brd     = branch -D
         ck      = checkout
         ckm     = checkout main
+        ckb     = checkout -b
         cp      = cherry-pick
         pom     = pull origin main
         rs      = reset HEAD~
